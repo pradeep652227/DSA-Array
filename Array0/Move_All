@@ -1,0 +1,34 @@
+#include <iostream>
+#include <vector>
+using namespace std;
+/*Program to Move All Negative elements to One side*/
+int main()
+{     
+//    vector <int>arr();
+//    int element{};
+//    cout<<"Enter negative and positive elements"<<endl;
+//    for(unsigned int i=0;i<vec.size();i++)
+//    {
+//      cin>>element; arr.push_back(element);
+//    }
+//     
+//     int c=0;
+//     for(unsigned int i=0;i<vec.size();i++)
+//     {
+//         if(arr[i]<0 && i!=0)
+//          {  a^=b;   b^=a; a^=b;  }
+//          
+//     }
+//     
+//     cout<<"Arranged array is:"<<endl;
+//     
+//     for(unsigned int i=0;i<vec.size();i++)
+//          cout<<arr.at(i)<<"\t";
+//          
+//          cout<<"**************************The end*********************"<<endl;
+//          
+
+cout<<"Hello"<<endl;
+     return 0;
+    
+}

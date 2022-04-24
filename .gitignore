@@ -1,0 +1,8 @@
+.codelite
+.vscode
+*.txt
+*.mk
+*.project
+*.File
+*.workspace
+Debug
